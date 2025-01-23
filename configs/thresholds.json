@@ -1,0 +1,11 @@
+{
+    "temperature": {
+      "min": 20,
+      "max": 80
+    },
+    "pressure": {
+      "min": 50,
+      "max": 150
+    }
+  }
+  

@@ -1,0 +1,5 @@
+spark:
+  master: "local[*]"
+  app_name: "BiofuelPipeline"
+  executor_memory: "4g"
+  driver_memory: "4g"

@@ -1,0 +1,36 @@
+# Core Python Libraries
+pyspark==3.3.0         # Apache Spark Python API
+pandas==1.5.3          # Data manipulation and analysis
+numpy==1.23.5          # Numerical computations
+
+# Kafka Integration
+kafka-python==2.0.2    # Kafka client for Python
+
+# Database
+psycopg2-binary==2.9.6 # PostgreSQL database adapter
+
+# Machine Learning
+scikit-learn==1.1.3    # Machine learning library
+mlflow==2.3.0          # Machine learning experiment tracking (optional)
+
+# Visualization
+matplotlib==3.6.2      # Visualization library
+
+# Data Validation
+pyyaml==6.0            # YAML parsing for configuration files
+jsonschema==4.17.3     # JSON validation
+
+# Airflow (optional, for orchestration)
+apache-airflow==2.5.0  # Workflow orchestration
+
+# Logging
+loguru==0.6.0          # Advanced logging for Python
+
+# Testing
+pytest==7.2.0          # Unit testing framework
+pytest-mock==3.10.0    # Mocking for tests
+
+# Development Tools
+pre-commit==3.0.0      # Pre-commit hooks
+flake8==6.0.0          # Code style enforcement
+black==22.10.0         # Code formatter

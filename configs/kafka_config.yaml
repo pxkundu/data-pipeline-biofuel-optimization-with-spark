@@ -1,0 +1,5 @@
+kafka:
+  bootstrap_servers: "localhost:9092"
+  topics:
+    sensor_data: "biofuel-sensor-data"
+    machine_logs: "biofuel-machine-logs"
